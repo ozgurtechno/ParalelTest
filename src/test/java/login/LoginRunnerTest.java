@@ -1,7 +1,5 @@
 package login;
 
-import Utilities.ParameterDriver;
-import com.aventstack.extentreports.service.ExtentService;
 import io.cucumber.testng.AbstractTestNGCucumberTests;
 import org.testng.annotations.*;
 
@@ -11,7 +9,7 @@ import org.testng.annotations.*;
 //        plugin = "com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:",
 //        tags = "@Regression"
 //)
-public class LoginRunner extends AbstractTestNGCucumberTests {
+public class LoginRunnerTest extends AbstractTestNGCucumberTests {
 
     @Override
     @DataProvider(parallel = true)
