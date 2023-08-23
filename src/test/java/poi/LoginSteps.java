@@ -3,6 +3,7 @@ package poi;
 import Pages.DialogContent;
 import Utilities.ExcelReader;
 import Utilities.ParameterDriver;
+import io.cucumber.java.After;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
@@ -48,6 +49,11 @@ public class LoginSteps {
         dc.assertText(dc.dashBoard,"Dashboard");
         System.out.println("Thread ID "+ Thread.currentThread().threadId());
         Assert.assertEquals("success",message);
+
+    }
+
+    @After
+    public void quit(){
         ParameterDriver.quitDriver();
     }
 }
