@@ -1,7 +1,10 @@
-/Users/ozgurtechno/IdeaProjects/ParalelTest/src/test/java/runners/_08_RunnerForParallelTest.java
-/Users/ozgurtechno/IdeaProjects/ParalelTest/src/test/java/stepDefinitions/StepDefs.java
-/Users/ozgurtechno/IdeaProjects/ParalelTest/src/test/java/stepDefinitions/_01_LoginSteps.java
-/Users/ozgurtechno/IdeaProjects/ParalelTest/src/test/java/runners/RunCucumberTest.java
+/Users/ozgurtechno/IdeaProjects/ParalelTest/src/test/java/paralel/RunCucumberTest.java
+/Users/ozgurtechno/IdeaProjects/ParalelTest/src/test/java/poi/LoginRunnerTest.java
+/Users/ozgurtechno/IdeaProjects/ParalelTest/src/test/java/Utilities/ExcelReader.java
+/Users/ozgurtechno/IdeaProjects/ParalelTest/src/test/java/poi/LoginSteps.java
 /Users/ozgurtechno/IdeaProjects/ParalelTest/src/test/java/Pages/DialogContent.java
+/Users/ozgurtechno/IdeaProjects/ParalelTest/src/test/java/login/LoginRunnerTest.java
+/Users/ozgurtechno/IdeaProjects/ParalelTest/src/test/java/paralel/StepDefs.java
 /Users/ozgurtechno/IdeaProjects/ParalelTest/src/test/java/Utilities/ParameterDriver.java
 /Users/ozgurtechno/IdeaProjects/ParalelTest/src/test/java/Utilities/MyMethods.java
+/Users/ozgurtechno/IdeaProjects/ParalelTest/src/test/java/login/LoginSteps.java

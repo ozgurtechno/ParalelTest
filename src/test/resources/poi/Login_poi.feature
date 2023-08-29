@@ -9,7 +9,7 @@ Feature: Login Functionality
     Then User should login successfully
     Examples:
       | sheetname | row |
-      | "Login" | 0 |
-#      | "Login" | 1 |
+      | "Login"   | 0 |
+      | "Login"   | 1 |
 
 

@@ -1,7 +1,10 @@
 Utilities/ParameterDriver.class
-runners/RunCucumberTest.class
+paralel/RunCucumberTest.class
+Utilities/ExcelReader.class
+paralel/StepDefs.class
+login/LoginSteps.class
 Pages/DialogContent.class
-stepDefinitions/_01_LoginSteps.class
-runners/_08_RunnerForParallelTest.class
+poi/LoginRunnerTest.class
+poi/LoginSteps.class
+login/LoginRunnerTest.class
 Utilities/MyMethods.class
-stepDefinitions/StepDefs.class
